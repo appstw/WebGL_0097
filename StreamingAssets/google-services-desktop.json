@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40124916306",
+    "project_id": "gabefightair",
+    "storage_bucket": "gabefightair.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40124916306:android:34b958a6682452d28af58b",
+        "android_client_info": {
+          "package_name": "com.gabe.fightair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKdeLX5Qeg_1cRAC872wmJlafiPNhp_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
